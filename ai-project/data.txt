@@ -1,0 +1,5 @@
+Java supports object-oriented programming concepts.
+Python is easy to learn and widely used in data science.
+JavaScript is used to create interactive web pages.
+SQL is used to query and manage relational databases.
+Machine learning is a subset of artificial intelligence.
