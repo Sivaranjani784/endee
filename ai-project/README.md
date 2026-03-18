@@ -36,6 +36,61 @@ Generated Response
 ```
 
 ---
+## ⚙️ Setup Instructions
+
+### 🔹 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name/ai-project
+```
+
+---
+
+### 🔹 2. Install Python
+
+* Download Python from: https://www.python.org/downloads/
+* أثناء installation, ensure you select:
+
+  * ✔ Add Python to PATH
+
+---
+
+### 🔹 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 🔹 4. Configure API Key
+
+* Go to Google AI Studio
+* Generate an API key
+* Open `app.py` and replace:
+
+```python
+api_key = "YOUR_API_KEY"
+```
+
+---
+
+### 🔹 5. Run the Application
+
+```bash
+python app.py
+```
+
+---
+
+### 🔹 6. Example Usage
+
+```
+You: What is Python?
+Bot: Python is a programming language...
+```
+
 
 ## ⚙️ How It Works
 
